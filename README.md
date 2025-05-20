@@ -51,7 +51,7 @@ O sistema permite o gerenciamento de produtos, categorias, movimentações de en
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/controle-estoque-unisul-2025.git
+   git clone https://github.com/bielntp/controle-estoque-a3.git
    ```
 2. Configure o banco de dados MySQL usando o script fornecido em `/sql/criar_banco.sql`
 3. Configure o arquivo de conexão com o banco de dados (`Conexao.java`)
@@ -63,7 +63,7 @@ O sistema permite o gerenciamento de produtos, categorias, movimentações de en
 
 O script SQL completo para criação do banco de dados está localizado na pasta:
 ```
-/sql/criar_banco.sql
+/sql/db_controle_estoque.sql
 ```
 
 ---

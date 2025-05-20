@@ -1,8 +1,9 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\biel\\Documents\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0.jar"
-    ]
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\biel\\Documents\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0.jar"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }
